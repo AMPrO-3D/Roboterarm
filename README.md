@@ -12,9 +12,6 @@ Die Bestellliste um die Teile für den Roboter im Europäischen Raum bestellen z
 
 die Eagle-Dateien für das Controllerboard finden sich im Unterordner Elektronik/Eagle sowie die Gerberfiles im Unterordner Elektronik/Gerber
 
-um die Firmware auf den Teensy zu Flashen, wird zum einen die Arduino IDE benötigt, die unter diesem Link heruntergeladen werden kann https://www.arduino.cc/en/software
-sowie das Addon Teensyduino, welches über diese Webseite heruntergeladen und installiert werden kann: https://www.pjrc.com/teensy/teensyduino.html
-
-
+Wie die Firmware auf den Controller geladen werden kann wird im README des Firmware-Ordners erklärt
 
 
