@@ -6,7 +6,7 @@ https://www.arduino.cc/en/software <br>
 sowie das Addon Teensyduino, welches über folgende Webseite heruntergeladen und installiert werden kann: <br>
 https://www.pjrc.com/teensy/teensyduino.html
 
-### Als Erstes muss die Firmware in die Arduino Entwicklungsumgebung geladen werden.
+### Als Erstes lädt man die Firmware in die Arduino Entwicklungsumgebung.
 ### Anschließend muss über "Werkzeuge" unter "Board" die Option "Teensy 4.1" ausgewählt werden
 
 ⋅⋅⋅![Arduino Settings](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/ArduinoIDEA1.png?raw=true)
