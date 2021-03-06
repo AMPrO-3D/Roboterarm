@@ -9,7 +9,7 @@ https://www.pjrc.com/teensy/teensyduino.html
 ### Als Erstes muss die Firmware in die Arduino Entwicklungsumgebung geladen werden.
 ### Anschließend muss über "Werkzeuge" unter "Board" die Option "Teensy 4.1" ausgewählt werden
 
-   ![Arduino Settings](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/ArduinoIDEA1.png?raw=true)
+⋅⋅⋅![Arduino Settings](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/ArduinoIDEA1.png?raw=true)
 <br>
 <br>
 <br>
