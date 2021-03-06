@@ -1,1 +1,3 @@
-[Board Preview](https://github.com/AMPrO-3D/Roboterarm/Elektronik/MainBoard.png?raw=true)
+
+
+![Arduino Settings](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/MainBoard.png?raw=true)
