@@ -10,7 +10,7 @@ Alle CAD-Dateien und die Ursprüngliche Dokumnentation können über diesen Link
 Die Bestellliste um die Teile für den Roboter im Europäischen Raum bestellen zu können, befindet sich im Unterordner Warenkorb
 <br>
 
-die Eagle-Dateien für das Controllerboard finden sich [hier](/Elektronik/Eagle) sowie die Gerberfiles [hier](../Elektronik/Gerber)
+die Eagle-Dateien für das Controllerboard finden sich [hier](/Elektronik/Eagle) sowie die Gerberfiles [hier](/Elektronik/Gerber)
 
 Wie die Firmware auf den Controller geladen werden kann wird im README des Firmware-Ordners erklärt 
 
