@@ -6,7 +6,6 @@ https://www.arduino.cc/en/software <br>
 sowie das Addon Teensyduino, welches über folgende Webseite heruntergeladen und installiert werden kann: <br>
 https://www.pjrc.com/teensy/teensyduino.html
 
-Anschliesend muss die Firmware über die Arduino Entwicklungsumgebung geöffnet werden.
 Als Erstes muss die Firmware über die Arduino Entwicklungsumgebung geöffnet werden.
 Nun muss über "Werkzeuge" unter "Board" die Option "Teensy 4.1" ausgewählt werden
 
