@@ -10,3 +10,11 @@ Anschliesend die Firmware über die Arduino Entwicklungsumgebung geöffnet werde
 Nun muss über "Werkzeuge" unter "Board" die Option "Teensy 4.1" ausgewählt werden
 
 ![Arduino Settings](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/ArduinoIDEA1.png?raw=true)
+
+Wenn man nun über "Werkzeuge" unter "Port" den Eintrag auswählt der mit "Serial (Teensy 4.1)" endet
+
+![Arduino Settings](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/ArduinoIDEA2.png?raw=true)
+
+kann man über "Sketch" auf "Hochladen" klicken, um die Firmware auf den Teensy zu flashen
+
+![Arduino Settings](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/ArduinoIDEA3.png?raw=true)
