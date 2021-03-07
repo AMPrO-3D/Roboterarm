@@ -42,4 +42,6 @@ Als nächstes benötigt man ein altes PC-ATX-Netzteil. Wir haben so eines schon 
 
 ⋅⋅⋅![Board Pinout](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/PinoutA1.PNG?raw=true)
 
+Test
+
 
