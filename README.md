@@ -11,6 +11,7 @@ Wir haben den Roboterarm von dem YouTuber "Skyentific" upgedatet, eine eigene St
 
 <hr>
 <br>
+
 ![Board Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/StartA2.jpg?raw=true)
 
 <hr>
