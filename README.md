@@ -40,5 +40,6 @@ Wenn der Roboter selbst fertig aufgebaut ist, was nach der Dokumentation von Sky
 
 Als nächstes benötigt man ein altes PC-ATX-Netzteil. Wir haben so eines schon gehabt, aber dafür kann man jedes herkömmliche ATX-Netzteil, welches auf Amazon erhältlich ist verwenden. Die Anschlussleitung, die normalerweise auf das Mainboard aufgesteckt wird, das ist der Breiteste von den Steckern am Netzteil, sollte aufgtrennt werden, am besten kurz vor dem Stecker, und über die Anschlussblöcke anhand der Platinenbeschriftung angesteckt werden. Folgender Farbcode ist zwar eigentlich genormt, man sollte aber umbedingt mit einem Multimeter vor anschluss des Kabels überprüfen, ob an den entsprechenden Leitungen die richtigen Spannungen anliegen
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>
-<span style="color:blue">some *blue* text</span>
+⋅⋅⋅![Board Pinout](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/MainboardC2.png?raw=true)
+
+
