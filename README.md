@@ -53,6 +53,10 @@ Damit der Controller ordungsgemäß funktioniert, muss bevor der Controller hoch
 Als nächstes muss der Controller über ein USB-Micro Kabel an einem Computer angeschlossen werden, woraufhin der Controller hochfahren und die Schrittmotoren bestromt werden sollten. Dies erkennt man daran, das die Motoren ein Haltemoment aufbauen, wenn man die Motoren verucht manuell zu drehen. 
 
 Wenn bis hierhin alles Funktioniert hat, kann man den Roboterarm über den [MotionController](/MotionController) gesteuert werden.
+
 ###### Anmerkung: Damit die Software funktionieren kann, müssen die Treiber über die Installation der Firmware installiert sein und auf dem PC die aktuelle JAVA-Version installiert sein
+
+#### Wer hilfestellung benötigt, verbesserungsvorschläge hat etc, kann bitte einfach ein Issue aufmachen, dann helfen wir euch weiter
+
 
 #### Die Software befindet sich in einem Early-Access Stadium, daher ist sie mit größter Vorsicht zu verwenden, da durch etwaige Softwarefehler der Roboter zum Beispiel ungewollte Bewegungen ausführt. Die Handhabung geschieht auf eigene Gefahr. Softwarefehler bitte über den Issue-Tab dieses Repos melden, damit wir schneller zu einem guten Ergebniss kommen können. Entwickler die Erfahrung mit Processing haben und sich an dem Projekt beteiligen möchten, können sich gerne über das Issue "Fehlende Entwickler" melden. Wir freuen uns über helfende Hände!
