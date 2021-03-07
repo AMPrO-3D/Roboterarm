@@ -5,7 +5,7 @@ Wir haben den Roboterarm von dem YouTuber "Skyentific" upgedatet, eine eigene St
 <hr>
 <br>
 
-![Board Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/StartA1?raw=true)
+![Board Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/StartA1.jpg?raw=true)
 
 <br>
 
