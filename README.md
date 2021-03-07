@@ -1,10 +1,11 @@
+
 # Roboterarm
 
 Wir haben den Roboterarm von dem YouTuber "Skyentific" upgedatet, eine eigene Steuerelektronik dafür entwickelt und einen Softwarecontroller für den PC geschrieben, über die der Roboterarm grafisch programmiert werden kann.
 <hr>
-![Trailer](https://user-images.githubusercontent.com/80164513/110225107-40cfc900-7ee2-11eb-9e18-b002b75deb8c.mov)
+![Greifer Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/StartA1?raw=true)
 
-https://user-images.githubusercontent.com/80164513/110225140-b471d600-7ee2-11eb-92a1-553266e7b8e4.mov
+
 
 
 
