@@ -50,6 +50,6 @@ Damit der Controller ordungsgemäß funktioniert, muss bevor der Controller hoch
 
 ⋅⋅⋅![Board Pinout](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/GrundstellungA1.PNG?raw=true)
 
-Als nächstes muss der Controller über ein USB-Micro Kabel an einem Computer angeschlossen werden. Nun sollte der Controller hochfahren und die Schrittmotoren bestromt werden. Dies erkennt man daran, das die Motoren ein Haltemoment aufbauen, wenn man die Motoren verucht manuell zu drehen. 
+Als nächstes muss der Controller über ein USB-Micro Kabel an einem Computer angeschlossen werden, woraufhin der Controller hochfahren und die Schrittmotoren bestromt werden sollten. Dies erkennt man daran, das die Motoren ein Haltemoment aufbauen, wenn man die Motoren verucht manuell zu drehen. 
 
-
+Wenn bis hierhin alles Funktioniert hat, kann man den Roboterarm über den [MotionController](/MotionController)
