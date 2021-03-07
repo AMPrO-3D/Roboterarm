@@ -54,3 +54,5 @@ Als nächstes muss der Controller über ein USB-Micro Kabel an einem Computer an
 
 Wenn bis hierhin alles Funktioniert hat, kann man den Roboterarm über den [MotionController](/MotionController) gesteuert werden.
 ###### Anmerkung: Damit die Software funktionieren kann, müssen die Treiber über die Installation der Firmware installiert sein und auf dem PC die aktuelle JAVA-Version installiert sein
+
+#### Die Software befindet sich in einem Early-Access Stadium, daher ist sie mit größter Vorsicht zu verwenden, da durch etwaige Softwarefehler der Roboter zum Beispiel ungewollte Bewegungen ausführt. Die Handhabung geschieht auf eigene Gefahr. Softwarefehler bitte über den Issue-Tab dieses Repos melden, damit wir schneller zu einem guten Ergebniss kommen können. Entwickler die Erfahrung mit Processing haben und sich an dem Projekt beteiligen möchten, können sich gerne über das Issue "Fehlende Entwickler" melden. Wir freuen uns über helfende Hände!
