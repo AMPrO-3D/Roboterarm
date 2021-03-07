@@ -34,4 +34,10 @@ Nachdem das Board nach den EAGLE-Dateien aufgebaut wurde, können die Schrittmot
 Anschließend muss die Firmware auf den Controller geladen werden, was in diesem [README](/Firmware) erklärt wird.
 
 
-![Board Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/MainboardC2.png?raw=true)
+⋅⋅⋅![Board Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/MainboardC2.png?raw=true)
+
+Wenn der Roboter selbst fertig aufgebaut ist, was nach der Dokumentation von Skyentific gemacht werden sollte, können Die Motoranschlussleitungen mit dem Controllerboard verbunden werden. Die Günstigste Variante wäre, die Anschlussleitungen direkt auf das Controllerboard zu löten. Soll es etwas Profesioneller aussehen, können stattdesen auch Stift und Buchsenleisten verwendet werden.
+
+Als nächstes benötigt man ein altes PC-ATX-Netzteil. Wir haben so eines schon gehabt, aber dafür kann man jedes herkömmliche ATX-Netzteil, welches auf Amazon erhältlich ist verwenden. Die Anschlussleitung, die normalerweise auf das Mainboard aufgesteckt wird, das ist der Breiteste von den Steckern am Netzteil, sollte aufgtrennt werden, am besten kurz vor dem Stecker, und über die Anschlussblöcke anhand der Platinenbeschriftung angesteckt werden. Folgender Farbcode ist zwar eigentlich genormt, man sollte aber umbedingt mit einem Multimeter vor anschluss des Kabels überprüfen, ob an den entsprechenden Leitungen die richtigen Spannungen anliegen
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>
