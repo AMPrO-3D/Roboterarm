@@ -43,5 +43,13 @@ Als nächstes benötigt man ein altes PC-ATX-Netzteil. Wir haben so eines schon 
 ⋅⋅⋅![Board Pinout](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/PinoutA1.PNG?raw=true)
 
 Der Anschluss des Netzteils sollte unbedingt gewissenhaft durchgeführt werden, da bei fehlerhafter Versorgung unter Umstäden großer Schaden am Controllerboard entstehen kann.
+<br>
+um das System zu Starten, muss zu erst das Netzteil entsprechend der Herstellerbestimmungen mit Spannnung versorgt werden. Meist über ein Kaltgerätekabel in der Steckdose.
+
+Damit der Controller ordungsgemäß funktioniert, muss bevor der Controller hochfährt der Roboter in  folgender Grundstellung stehen:
+
+⋅⋅⋅![Board Pinout](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/GrundstellungA1.PNG?raw=true)
+
+Als nächstes muss der Controller über ein USB-Micro Kabel an einem Computer angeschlossen werden. Nun sollte der Controller hochfahren und die Schrittmotoren bestromt werden. Dies erkennt man daran, das die Motoren ein Haltemoment aufbauen, wenn man die Motoren verucht manuell zu drehen. 
 
 
