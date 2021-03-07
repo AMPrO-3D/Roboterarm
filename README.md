@@ -25,3 +25,4 @@ Nachdem das Board nach den EAGLE-Dateien aufgebaut wurde, können die Schrittmot
 Anschließend muss die Firmware auf den Controller geladen werden, was in diesem [README](/Firmware) erklärt wird.
 
 
+![Board Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/MainboardC2.png?raw=true)
