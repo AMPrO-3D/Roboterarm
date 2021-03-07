@@ -52,4 +52,5 @@ Damit der Controller ordungsgemäß funktioniert, muss bevor der Controller hoch
 
 Als nächstes muss der Controller über ein USB-Micro Kabel an einem Computer angeschlossen werden, woraufhin der Controller hochfahren und die Schrittmotoren bestromt werden sollten. Dies erkennt man daran, das die Motoren ein Haltemoment aufbauen, wenn man die Motoren verucht manuell zu drehen. 
 
-Wenn bis hierhin alles Funktioniert hat, kann man den Roboterarm über den [MotionController](/MotionController)
+Wenn bis hierhin alles Funktioniert hat, kann man den Roboterarm über den [MotionController](/MotionController) gesteuert werden.
+###### Anmerkung: Damit die Software funktionieren kann, müssen die Treiber über die Installation der Firmware installiert sein und auf dem PC die aktuelle JAVA-Version installiert sein
