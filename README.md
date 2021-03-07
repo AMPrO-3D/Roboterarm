@@ -9,10 +9,13 @@ Wir haben den Roboterarm von dem YouTuber "Skyentific" upgedatet, eine eigene St
 
 <br>
 
-
-
+<hr>
+<br>
+![Board Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/StartA2.jpg?raw=true)
 
 <hr>
+<br>
+
 
 Alle CAD-Dateien und die ursprüngliche Dokumnentation können über diesen Link auf dem [Repo von Skyentific](https://github.com/SkyentificGit/SmallRobotArm) abgerufen werden
 <br>
