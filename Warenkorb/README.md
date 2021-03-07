@@ -1,0 +1,1 @@
+![Board Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/Warenkorb.PNG?raw=true)

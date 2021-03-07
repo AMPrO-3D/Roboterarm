@@ -5,19 +5,19 @@ Wir haben den Roboterarm von dem YouTuber "Skyentific" upgedatet, eine eigene St
 <hr>
 <br>
 
-![Board Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/StartA1.jpg?raw=true)
+![Roboter Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/StartA1.jpg?raw=true)
 <br>
 
 <hr>
 
 
-![Board Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/StartA2.jpg?raw=true)
+![Roboter Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/StartA2.jpg?raw=true)
 <br>
 
 <hr>
 
 
-![Board Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/StartA0.jpg?raw=true)
+![Firmware Preview](https://github.com/AMPrO-3D/Roboterarm/blob/main/blob/Bilder/StartA0.jpg?raw=true)
 <br>
 <hr>
 
